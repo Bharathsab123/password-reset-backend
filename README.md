@@ -14,5 +14,5 @@ the task is to implement a correct password reset flow with email verification a
 5, Api for set new password :
 
 # we use
- ## nodejs  ## express  ## bcrypt ## JWS  ## otp generator  mongoosh  cors dotenv  router
+ ## nodejs  ## express  ## bcrypt ## JWS  ## otp  ##generator  ##mongoosh  ##cors ##dotenv  ##router ##nodemailer  ##nodemon
 
